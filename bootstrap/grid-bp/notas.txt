@@ -1,0 +1,11 @@
+Boostrap v5.3
+
+Clases CSS Layout
+    Contenedor
+        container
+            Centra el contenido
+        container-tamaño
+            Tamaños --> sm, md, lg, xl, xxl
+            Centrar el contenido del elemento en un tamaño especial.
+        container-fluid
+            abarcar el 100% del ancho de la pagina en todos los tamaños.
